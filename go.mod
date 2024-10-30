@@ -1,4 +1,4 @@
-module github.com/sn1k3hunt3r/logging
+module github.com/snakehunterr/logging
 
 go 1.23.2
 
