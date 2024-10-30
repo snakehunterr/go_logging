@@ -2,9 +2,10 @@ module github.com/snakehunterr/go_logging
 
 go 1.23.2
 
+require github.com/charmbracelet/lipgloss v0.13.1
+
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/charmbracelet/lipgloss v0.13.1 // indirect
 	github.com/charmbracelet/x/ansi v0.3.2 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
